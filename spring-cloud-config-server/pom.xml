@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>spring-cloud-config-server</name>
-	<description>Demo project for Spring Cloud Server</description>
+	<description>Demo project for Spring Cloud Config Server</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
