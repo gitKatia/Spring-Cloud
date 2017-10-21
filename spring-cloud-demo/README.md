@@ -1,3 +1,5 @@
+Multi-module Maven Project for Spring Cloud Demo
+
 CD to a directory of your choice
 
 git clone https://github.com/gitKatia/Spring-Cloud.git
