@@ -8,5 +8,5 @@ Then type the URL:
 
 http://localhost:8888/test-service/default
 
-This will read the configuration for the "default" profile
+This will read the configuration for the "default" profile from remote config repo
 
