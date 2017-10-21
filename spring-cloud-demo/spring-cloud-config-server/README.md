@@ -2,7 +2,7 @@ Spring Cloud Config Server
 
 This Service reads projects configuration from a remote GIT repository and exposes this configuration in json format
 
-From Spring Tool Suite "Run as Springboot Application"
+From Spring Tool Suite "Run as Spring Boot App"
 
 Then type the URL:
 
