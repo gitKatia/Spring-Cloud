@@ -8,5 +8,6 @@
 	<modules>
 		<module>spring-cloud-config-server</module>
 		<module>test-service</module>
+		<module>unit-conversion-service</module>
 	</modules>
 </project>
