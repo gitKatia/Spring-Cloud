@@ -1,4 +1,4 @@
-Spring Cloud Config Server
+## Spring Cloud Config Server
 
 This Service reads projects configuration from a remote GIT repository and exposes this configuration in json format
 

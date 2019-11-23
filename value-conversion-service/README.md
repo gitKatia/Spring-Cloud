@@ -1,5 +1,6 @@
-The service is a Config Server client and is registered with Eureka server
-It uses the unit-conversion-service using Open Feign declarative client
+## Config Server client, registered with Eureka Server
+
+It uses the unit-conversion-service via Open Feign declarative client
 
 Example call:
 
