@@ -12,7 +12,7 @@ import com.kat.service.test.model.TestConfiguration;
 
 
 @RestController
-public class TestConfigurationController {
+public class TestServiceController {
 	
 	@Value("${test-service.firstname}")
 	private String firstname;

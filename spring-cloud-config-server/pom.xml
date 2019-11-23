@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 
 	<name>spring-cloud-config-server</name>
-	<description>Demo project for Spring Cloud Config Server</description>
+	<description>Demo Spring Cloud Config Server</description>
 
 	<parent>
 		<groupId>com.kat</groupId>
