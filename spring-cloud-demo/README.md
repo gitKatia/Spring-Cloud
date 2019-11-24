@@ -1,4 +1,6 @@
-## Multi-module Maven Project for Spring Cloud Demo
+## Spring-Cloud Microservices Demo project
+
+spring-cloud-demo is parent project (multi-module maven project)
 
 modules:
 

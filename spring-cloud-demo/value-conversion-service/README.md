@@ -16,4 +16,4 @@ Hystrix dashboard is available at:
 
 http://localhost:8100/hystrix/
 
-Dashboard currently not working as it should
+Here you need to specify which stream to monitor: http://localhost:8100/hystrix.stream
